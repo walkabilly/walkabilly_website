@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "School of Human Kinetics and Recreation, Memorial University"
   company_url = ""
   location = "St. John's, NL"
-  date_start = "2016"
+  date_start = "2016-12-01"
   date_end = ""
   description = """hello"""
 
