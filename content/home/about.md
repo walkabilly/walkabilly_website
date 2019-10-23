@@ -17,8 +17,8 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Public Health"
+  institution = "Université de Montréal"
   year = 2012
 
 [[education.courses]]
@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University. My research is focused on using wearable technologies to study physical activity, transportation interventions, and equity in urban spaces. I have an MSc in Kinesiology from the University of Saskatchewan, a PhD in Public Health from Université de Montréal. I am a Principal Investigator for the INTErventions, Research, and Action in Cities Team (INTERAC) and the Neighbourhood Factors Team co-lead of the Canadian Urban Environmental Health (CANUE) Research Consortium. I spends free time chasing his two rambunctious kids, and relives his youth playing recreational basketball on Mondays and Wednesdays.
