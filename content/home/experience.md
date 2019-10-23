@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Analysing
+  * Analysing 
   * Modelling
   * Deploying
   """
