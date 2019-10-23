@@ -26,8 +26,6 @@ date_format = "January 2006"
   date_start = "2016"
   date_end = ""
   description = ""
-  Responsibilities include:
-  * doing things
 
 [[experience]]
   title = "Professor"
