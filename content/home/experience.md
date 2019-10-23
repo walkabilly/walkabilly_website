@@ -20,12 +20,14 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
-  company = "School of Human Kinetics and Recreation, Memorial University"
+  company = "Memorial University"
   company_url = ""
   location = "St. John's, NL"
   date_start = "2016-12-01"
   date_end = ""
-  description = """hello"""
+  description = """
+  hello
+  """
 
 [[experience]]
   title = "Professor"
