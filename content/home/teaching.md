@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -126,3 +126,11 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
 6. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
 7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
 8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
+
+
+## <span style="color:#81112c">Consulting</span>
+
+* 2014: Fuller, D. Saskatoon Health Region Employee Health Survey Data Presentation. Conduct analysis and develop interactive website to present employee health data to staff. Fee of $75/hour.
+* 2014 Fuller, D. Founded Good Fit Data (www.goodfitdata.com)
+* 2014 Fuller, D. Philadelphia Bicycle Share Study. Develop research protocol for Philadelphia Bikeshare Study lead by Dr. Amy Auchincloss. Fee of $500/hour.
+* 2009 Fuller, D. Neighbourhood Active Living Potential (NALP). Training session for the use of the NALP. Smart Cities, Healthy Kids Project (CIHR, Heart and Stroke Foundation of Canada), May 19-22, Saskatoon, Canada. Fee of $50/hour.
