@@ -22,19 +22,9 @@ date_format = "Jan 2006"
   company = "School of Human Kinetics and Recreation"
   company_url = ""
   location = "St. John's, NL"
-  date_start = "2016"
+  date_start = "2016-1-1"
   date_end = ""
   description = """
   Responsibilities include: """
 
 +++
-
-### <span style="color:#81112c">Appointments and Promotions</span>
-
-| Period | Appointment | Rank | Unit | Institution | 
-|--------|-------------|------|------|-------------|
-| 2016 - Ongoing | Primary |  Assistant Professor | School of Human Kinetics and Recreation | Memorial University |
-| 2016 - Ongoing |  Cross Appointment | Assistant Professor | Community Health and Humanities | Memorial University |
-| 2016 - Ongoing |  Cross Appointment | Assistant Professor | Department of Computer Science | Memorial University |
-| 2016 - Ongoing | | Adjunct Professor | Department of Community Health and Epidemiology | University of Saskatchewan |
-| 2015 - 2016 | Term | Assistant Professor | School of Public Health | University of Saskatchewan |
