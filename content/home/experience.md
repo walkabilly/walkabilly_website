@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "School Of Human Kinetics and Recreation"
   company_url = ""
   location = "St. John's, NL"
-  date_start = "2016"
+  date_start = "2016-01-01"
   date_end = ""
   description = """
   Responsibilities include:
