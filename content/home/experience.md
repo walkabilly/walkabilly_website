@@ -49,3 +49,9 @@ date_format = "Jan 2006"
 | 2016 - Ongoing |  Cross Appointment | Assistant Professor | Department of Computer Science | Memorial University |
 | 2016 - Ongoing | | Adjunct Professor | Department of Community Health and Epidemiology | University of Saskatchewan |
 | 2015 - 2016 | Term | Assistant Professor | School of Public Health | University of Saskatchewan |
+
+### <span style="color:#81112c">Professional Memberships</span>
+
+ * Canadian Public Health Association
+ * International Society for Behavioral Nutrition and Physical Activity
+ * International Society for Physical Activity and Health
