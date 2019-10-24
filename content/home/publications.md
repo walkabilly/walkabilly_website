@@ -152,3 +152,44 @@ exclude_selected = false
 2. "Itinerum Smartphone App" workshop with Dr. Zachary Patterson from Concordia University. Approximately 20 students attended. October 20th 2017. 
 3."R: Data analysis and report writing for HKR" workshop in 2017 attended by 17 students and faculty members. Tuesday April 25, 2017.
 4."BikeMaps.org" workshop in 2017 attended by 9 community members and hosted in collaboration with Safety NL. Thursday February 2, 2017.  
+
+
+### <span style="color:#81112c">Peer Reviews</span>
+
+I have been an Associated Editor for BMC Public Health since September 2019. I have been handling editor for 13 papers since that time. I have been Associate Editor for the Canadian Journal of Public Health since April 2019. 
+
+| Journal | Year | Number of Reviews |
+|---------|------|-------------------|
+| British Medical Journal | 2019 | 1 | 
+| Journal of Science and Medicine in Sport | 2019 | 1 | 
+| Journal of Aging and Physical Activity | 2019 | 1 | 
+| Health and Place | 2019 | 1 | 
+| Journal of Epidemiology and Community Health | 2019 | 1 | 
+| Journal of Transportation and Health | 2019 | 1 | 
+| Canadian Journal of Public Health | 2019 | 2 | 
+| Canadian Journal of Public Health | 2018 | 1 | 
+| Journal of Epidemiology and Community Health | 2018 | 1 | 
+| American Journal of Preventive Medicine | 2017 | 1 | 
+| Canadian Journal of Public Health | 2017 | 2 | 
+| Nature - Science Reports | 2017 | 1 | 
+| Social Science and Medicine: Public Health | 2017 | 1 | 
+| Health Promotion and Chronic Disease Prevention | 2017 | 1 | 
+| Journal of Transportation and Health | 2016 | 1 | 
+| Canadian Journal of Public Health | 2016 | 1 | 
+| Preventive Medicine | 2015 | 1 | 
+| Journal of Epidemiology and Community Health | 2015 | 1 | 
+| Canadian Journal of Public Health | 2015 | 1 | 
+| Chronic Disease in Canada | 2015 | 1 | 
+| Transportation Research Board | 2014 | 1 | 
+| Journal of Epidemiology and Community Health | 2014 | 1 | 
+| American Journal of Public Health | 2013 | 1 | 
+| British Medical Journal | 2013 | 1 | 
+| Sustainability: Science, Policy and Practice | 2013 | 1 | 
+| Preventive Medicine | 2013 | 1 | 
+| Journal of Epidemiology and Community Health | 2011 | 1 | 
+| Preventive Medicine | 2011 | 1 | 
+| Transportation Research Board | 2011 | 1 | 
+| Social Science and Medicine | 2011 | 1 | 
+| Public Health Nutrition | 2011 | 1 | 
+| Annals of Behavioral Medicine | 2010 | 1 | 
+| Chronic Disease in Canada | 2010 | 1 | 
