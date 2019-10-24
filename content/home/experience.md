@@ -36,6 +36,16 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught electronics engineering and researched semiconductor physics."""
 
 +++
+
+### <span style="color:#81112c">Appointments and Promotions</span>
+
+| Period | Appointment | Rank | Unit | Institution | 
+|--------|-------------|------|------|-------------|
+| 2016 - Ongoing | Primary |  Assistant Professor | School of Human Kinetics and Recreation | Memorial University |
+| 2016 - Ongoing |  Cross Appointment | Assistant Professor | Community Health and Humanities | Memorial University |
+| 2016 - Ongoing |  Cross Appointment | Assistant Professor | Department of Computer Science | Memorial University |
+| 2016 - Ongoing | | Adjunct Professor | Department of Community Health and Epidemiology | University of Saskatchewan |
+| 2015 - 2016 | Term | Assistant Professor | School of Public Health | University of Saskatchewan |
