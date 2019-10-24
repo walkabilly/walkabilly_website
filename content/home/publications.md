@@ -138,3 +138,17 @@ exclude_selected = false
 * September 28, 2017. Winters, M, **Fuller, D.** Impacts of bicycle infrastructure in mid-sized cities study: Halifax Baseline results. Presentation and meeting with local cycling advocates.  In attendance 10: including representatives from the from the Halifax Cycling Coalition, Nova Social Cycles, Halifax Ecology Action Centre, and Halifax Regional Health Authority. 
 * September 28, 2017. Winters, M, **Fuller, D.** Impacts of bicycle infrastructure in mid-sized cities study: Halifax baseline results. Halifax Regional Municipality Transportation Standing Committee.  In attendance: 15, including 3 councilors, city planners and engineers, and CBC reporter. 
 * September 28, 2017. Winters, M, **Fuller, D.** Impacts of bicycle infrastructure in mid-sized cities study: Halifax baseline results. Evening public event and panel discussion hosted by Halifax Cycling Coalition, Nova Social Cycles, Halifax Ecology Action Centre, and Halifax Regional Health Authority.  In attendance: 30 live + ~75 livestream.  Halifax Central Library. . 
+
+
+## <span style="color:#81112c">Invited Researchers</span>
+
+1. Dr. Amy Auchincloss, Professor, School of Public Health, Drexel University. October 20th - November 3rd, 2016. 
+2. Dr. Kevin Stanley, Professor, Department of Computer Science, University of Saskatchewan. September 26, 2016.
+3. Dr. Steven Hoffman, CIHR Institute of Population and Public Health, York University. October 17-18, 2016.
+
+## <span style="color:#81112c">Hosted Workshops</span>
+
+1. "The Future of Walkability Measurement in Canada" workshop on attended by 18 researchers from across Canada. November 16 and 17, 2017
+2. "Itinerum Smartphone App" workshop with Dr. Zachary Patterson from Concordia University. Approximately 20 students attended. October 20th 2017. 
+3."R: Data analysis and report writing for HKR" workshop in 2017 attended by 17 students and faculty members. Tuesday April 25, 2017.
+4."BikeMaps.org" workshop in 2017 attended by 9 community members and hosted in collaboration with Safety NL. Thursday February 2, 2017.  
