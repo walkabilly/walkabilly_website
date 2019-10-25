@@ -53,7 +53,6 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
 7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
 8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
 
-
 ## <span style="color:#81112c">Consulting</span>
 
 * 2014: Fuller, D. Saskatoon Health Region Employee Health Survey Data Presentation. Conduct analysis and develop interactive website to present employee health data to staff. Fee of $75/hour.
