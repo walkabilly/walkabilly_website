@@ -17,28 +17,48 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Professor"
+  company = "School of Human Kinetics and Recreation, Memorial University"
   company_url = ""
-  location = "California"
+  location = "St. John's, CA"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = ""
+  description = """ Appointment: Primary """
 
+[[experience]]
+  title = "Assistant Professor"
+  company = " Community Health and Humanities, Memorial University"
+  company_url = ""
+  location = "St. John's, CA"
+  date_start = "2016-01-01"
+  date_end = ""
+  description = """ Appointment: Cross Appointment """
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "Department of Computer Science, Memorial University"
+  company_url = ""
+  location = "St. John's, CA"
+  date_start = "2016-01-01"
+  date_end = ""
+  description = """ Appointment: Cross Appointment """
+
+[[experience]]
+  title = "Adjunct Professor"
+  company = "Department of Community Health and Epidemiology, University of Saskatchewan"
+  company_url = ""
+  location = "Saskatchewan, CA"
+  date_start = "2016-01-01"
+  date_end = ""
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "School of Public Health, University of Saskatchewan"
+  company_url = ""
+  location = "Saskatchewan, CA"
+  date_start = "2016-01-01"
+  date_end = "2015-01-01"
+  description = """ Appointment: Term """
 +++

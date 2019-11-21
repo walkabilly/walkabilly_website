@@ -1,15 +1,17 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Conference Papers'
+subtitle: ''
+summary: .
 authors:
 - admin
 tags:
 - Academic
+- Conference
 categories:
-- Hello
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+- Publication
+
+date: ""
+lastmod: ""
 featured: false
 draft: false
 
@@ -25,3 +27,6 @@ draft: false
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+1. Alfosool, A.M.S., Chen, Y., __Fuller, D.__ Road Importance Using Complex-Networks, Graph Reduction & Interpolation. International Conference on Computing, Networking and Communications.
+2. Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.
