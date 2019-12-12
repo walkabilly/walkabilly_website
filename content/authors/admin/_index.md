@@ -76,5 +76,5 @@ user_groups:
 
 ### <span style="color:#000000">Languages</span>
 
-* English (read, write, speak, peer review)
-* French (read, write, speak, peer review)
+* English (read, write, speak)
+* French (read, write, speak)
